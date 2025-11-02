@@ -16,4 +16,5 @@ DOMAIN-SUFFIX,byteglb.com
 DOMAIN-SUFFIX,akamai.net
 DOMAIN-SUFFIX,byteintlapi.com
 DOMAIN-SUFFIX,gcpsg.byteglb.com
-#DOMAIN-SUFFIX,mchost.guru
+DOMAIN-SUFFIX,api.trae.com.cn
+DOMAIN-SUFFIX,mchost.guru
