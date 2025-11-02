@@ -3,18 +3,16 @@
 # UPDATED: 2025-11-02 09:20:01
 DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,byteoversea.com
-DOMAIN-SUFFIX,trae-api-sg.mchost.guru
-DOMAIN-SUFFIX,lf3-static.bytednsdoc.com
-DOMAIN-SUFFIX,bytegate-sg.byteintlapi.com
-DOMAIN-SUFFIX,abtestvm-sg.bytedance.com
-DOMAIN-SUFFIX,tron-sg.bytelemon.com
-DOMAIN-SUFFIX,sf16-short-sg.bytedapm.com
+DOMAIN-SUFFIX,mchost.guru
+DOMAIN-SUFFIX,bytednsdoc.com
+DOMAIN-SUFFIX,byteintlapi.com
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,bytelemon.com
+DOMAIN-SUFFIX,bytedapm.com
 DOMAIN-SUFFIX,trae.com.cn
 DOMAIN-SUFFIX,tron.jiyunhudong.com
 DOMAIN-SUFFIX,starling.zijieapi.com
 DOMAIN-SUFFIX,byteglb.com
 DOMAIN-SUFFIX,akamai.net
-DOMAIN-SUFFIX,byteintlapi.com
-DOMAIN-SUFFIX,gcpsg.byteglb.com
-DOMAIN-SUFFIX,api.trae.com.cn
-DOMAIN-SUFFIX,mchost.guru
+
+
